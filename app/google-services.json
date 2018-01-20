@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240717845925",
+    "firebase_url": "https://gsheetwithimage-b91d2.firebaseio.com",
+    "project_id": "gsheetwithimage-b91d2",
+    "storage_bucket": "gsheetwithimage-b91d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240717845925:android:1b95cddea60b6a35",
+        "android_client_info": {
+          "package_name": "alabs.gsheetwithimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240717845925-hqpoic72gh83loapmd1n00lh3tsuck6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alabs.gsheetwithimage",
+            "certificate_hash": "a5a838c6a64bbe04e9ccffb67d280787266dab99"
+          }
+        },
+        {
+          "client_id": "240717845925-orr30tdqn1679hj1va4koq6c1qa2c1fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuspffYX_EskdWqYl9nSyCsVCiqnjbwiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240717845925-orr30tdqn1679hj1va4koq6c1qa2c1fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
